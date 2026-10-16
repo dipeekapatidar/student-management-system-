@@ -1,0 +1,51 @@
+[
+    {
+        "roll_no": 1,
+        "name": "Dipeeka Patidar",
+        "age": 22,
+        "course": "mca",
+        "marks": 100.0
+    },
+    {
+        "roll_no": 2,
+        "name": "Prachi Singh",
+        "age": 23,
+        "course": "mca",
+        "marks": 80.0
+    },
+    {
+        "roll_no": 3,
+        "name": "Priti E",
+        "age": 22,
+        "course": "msc",
+        "marks": 98.0
+    },
+    {
+        "roll_no": 4,
+        "name": "Pawan Patel",
+        "age": 23,
+        "course": "msc",
+        "marks": 78.0
+    },
+    {
+        "roll_no": 5,
+        "name": "Priya Kumari",
+        "age": 22,
+        "course": "bca",
+        "marks": 98.0
+    },
+    {
+        "roll_no": 6,
+        "name": "Nitin",
+        "age": 25,
+        "course": "msc",
+        "marks": 100.0
+    },
+    {
+        "roll_no": 7,
+        "name": "Ranu Prit",
+        "age": 26,
+        "course": "msc",
+        "marks": 99.0
+    }
+]
